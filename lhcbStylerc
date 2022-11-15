@@ -4,15 +4,15 @@
 # Author: Sebastian Schmitt <s.schmitt@cern.ch>
 # Date:   2020-08-15
 
-axes.labelsize: 28
-axes.linewidth: 2
+axes.labelsize: 14
+axes.linewidth: 1
 
-figure.figsize: 10, 8
+figure.figsize: 5, 4
 figure.dpi:     100
 
 font.family: serif
 font.serif:  Times New Roman
-font.size:   13
+font.size:   7
 font.weight: 400
 
 text.usetex: True
@@ -32,10 +32,10 @@ legend.frameon:        false
 legend.handletextpad:  0.3
 legend.numpoints:      1
 legend.labelspacing:   0.2
-legend.fontsize:       24
-legend.title_fontsize: 24
+legend.fontsize:       12
+legend.title_fontsize: 12
 
-lines.linewidth:       2
+lines.linewidth:       1
 lines.markeredgewidth: 0
 lines.markersize:      8
 
@@ -45,26 +45,26 @@ savefig.pad_inches: 0.1
 xaxis.labellocation: right
 yaxis.labellocation: top
 
-xtick.major.size:    13
-xtick.minor.size:    6
-xtick.major.width:   1.5
-xtick.minor.width:   1.5
+xtick.major.size:    8
+xtick.minor.size:    4
+xtick.major.width:   1.
+xtick.minor.width:   1.
 xtick.major.pad:     10
 xtick.minor.pad:     10
-xtick.labelsize:     26
+xtick.labelsize:     13
 xtick.top:           True
 xtick.minor.visible: True
 xtick.direction:     in
 
-ytick.major.size:    13
-ytick.minor.size:    6
-ytick.major.width:   1.5
-ytick.minor.width:   1.5
+ytick.major.size:    8
+ytick.minor.size:    4
+ytick.major.width:   1.
+ytick.minor.width:   1.
 ytick.major.pad:     10
 ytick.minor.pad:     10
-ytick.labelsize:     26
+ytick.labelsize:     13
 ytick.right:         True
 ytick.minor.visible: True
 ytick.direction:     in
 
-errorbar.capsize: 4
+errorbar.capsize: 2
