@@ -11,6 +11,7 @@ The way i recommend to set up a virtual environment for python is with [minicond
 ## Acknowledgements
 
 Many thanks to Jonas Eschle for providing helpful comments when creating this tutorial and for his continued development of [zfit](https://github.com/zfit/zfit)!
+Parts of this tutorial are inspired by [Hans Dembinskis pyHEP](https://nbviewer.org/github/HDembinski/PyHEP-2022-iminuit/blob/main/iminuit.ipynb) tutorial for `Minuit`. 
 
 ## Integrate with your tools
 
