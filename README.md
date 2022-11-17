@@ -6,7 +6,7 @@ This repo contains a tutorial for the [zfit](https://github.com/zfit/zfit) and [
 
 The notebook was created having `python 3.9` in mind with zfit version `0.10.1` and Minuit `2.17.0`.
 Additionally required are the dependencies of the packages, such as tensorflow, and numpy. 
-The way i recommend to set up a virtual environment for python is with [miniconda](https://docs.conda.io/en/latest/miniconda.html) or [micromamba](https://mamba.readthedocs.io/en/latest/user_guide/micromamba.html). 
+The way i recommend to set up a virtual environment for python is with [miniconda](https://docs.conda.io/en/latest/miniconda.html) or [micromamba](https://mamba.readthedocs.io/en/latest/user_guide/micromamba.html). The full requirements can be found in [requirements.txt](https://git.rwth-aachen.de/sebastian.schmitt1/lhcb-starterkit-2022/-/blob/main/requirements.txt). 
 
 ## Acknowledgements
 
