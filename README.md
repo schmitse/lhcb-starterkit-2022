@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schmitse/lhcb-starterkit-2022/main)
 
-This repo contains a tutorial for the [`zfit`](https://github.com/zfit/zfit) and [`Minuit`](https://iminuit.readthedocs.io/en/stable/) libraries for parameter estimation in python that was created for the LHCb starterkit 2022. 
+This repository contains a tutorial for the [`zfit`](https://github.com/zfit/zfit) and [`Minuit`](https://iminuit.readthedocs.io/en/stable/) libraries for parameter estimation in python that was created for the LHCb starterkit 2022. Just click the binder link to try it out! 
 
 The lesson is divided into three different parts:
  - [Part I - zfit Basics](https://git.rwth-aachen.de/sebastian.schmitt1/lhcb-starterkit-2022/-/blob/main/zfitBasics.ipynb) sets the scene for the lesson and introduces the basics needed to run a fit in `zfit`. The fit result is investigated and different cost functions are introduced.
@@ -13,7 +13,7 @@ The lesson is divided into three different parts:
 
 The notebook was created having `python 3.9` in mind with `zfit` version `0.10.1` and Minuit `2.17.0`.
 Additionally required are the dependencies of the packages, such as `tensorflow`, and `numpy`. 
-The way i recommend to set up a virtual environment for python is with [miniconda](https://docs.conda.io/en/latest/miniconda.html) or [micromamba](https://mamba.readthedocs.io/en/latest/user_guide/micromamba.html). The full requirements can be found in [requirements.txt](https://git.rwth-aachen.de/sebastian.schmitt1/lhcb-starterkit-2022/-/blob/main/requirements.txt). 
+The way i recommend to set up a virtual environment for python is with [miniconda](https://docs.conda.io/en/latest/miniconda.html) or [micromamba](https://mamba.readthedocs.io/en/latest/user_guide/micromamba.html). The full requirements can be found in [requirements_general.txt](https://git.rwth-aachen.de/sebastian.schmitt1/lhcb-starterkit-2022/-/blob/main/requirements_general.txt). A working requirement for binder is given in requirements.txt. 
 
 ## Acknowledgements
 
