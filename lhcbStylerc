@@ -37,7 +37,7 @@ legend.title_fontsize: 12
 
 lines.linewidth:       1
 lines.markeredgewidth: 0
-lines.markersize:      8
+lines.markersize:      7
 
 savefig.bbox:       tight
 savefig.pad_inches: 0.1
