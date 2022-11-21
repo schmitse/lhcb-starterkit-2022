@@ -1,5 +1,7 @@
 # lhcb-starterkit-2022
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schmitse/lhcb-starterkit-2022/main)
+
 This repo contains a tutorial for the [`zfit`](https://github.com/zfit/zfit) and [`Minuit`](https://iminuit.readthedocs.io/en/stable/) libraries for parameter estimation in python that was created for the LHCb starterkit 2022. 
 
 The lesson is divided into three different parts:
