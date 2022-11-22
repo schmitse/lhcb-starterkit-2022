@@ -56,7 +56,7 @@ def plot_fit(dat: np.ndarray, basis: np.ndarray, model: np.ndarray,
     # if we want to plot the submodels of our model, we can iterate through
     # all of them and evaluate them at our basis. We will not bootstrap
     # all of their shape uncertainties though, this is just an illustration
-    if zmodel is not None:
+    if hasattr(zmodel, 'get_models'):
         nmodels = len(zmodel.get_models())
         cmap = plt.get_cmap('autumn')
         norm = mpl.colors.Normalize(0, nmodels)
