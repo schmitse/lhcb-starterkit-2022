@@ -18,4 +18,6 @@ The way i recommend to set up a virtual environment for python is with [minicond
 ## Acknowledgements
 
 Many thanks to Jonas Eschle for providing helpful comments when creating this tutorial and for his continued development of [`zfit`](https://github.com/zfit/zfit)!
+I also want to thank Lorenzo Paolucci, Gediminas Sarpis, and Dan Thompson for helping me improve the presentation of the content. 
+
 Parts of this tutorial are inspired by [Hans Dembinskis pyHEP](https://nbviewer.org/github/HDembinski/PyHEP-2022-iminuit/blob/main/iminuit.ipynb) tutorial for `Minuit` and [Statistical Data Analysis](https://books.google.de/books/about/Statistical_Data_Analysis.html?hl=de&id=ff8ZyW0nlJAC&redir_esc=y) by Glen Cowan. 
